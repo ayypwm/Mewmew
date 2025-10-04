@@ -153,6 +153,6 @@ end)
 
 if getgenv().autoexecuter and queue_on_teleport then
     queue_on_teleport([[
-        loadstring(game:HttpGet("YOUR_RAW_GITHUB_LINK_HERE"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ayypwm/Mewmew/main/Gaterunonce.lua"))()
     ]])
 end
